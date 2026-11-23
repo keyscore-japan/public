@@ -14,3 +14,4 @@ MAY-HA[[:space:]]V.0.6.0.mp4 filter=lfs diff=lfs merge=lfs -text
 MAY-HA[[:space:]]v0.5.5.mp4 filter=lfs diff=lfs merge=lfs -text
 motion_ai.3cams.mp4 filter=lfs diff=lfs merge=lfs -text
 Self[[:space:]]Driving.V.0.1.0.mp4 filter=lfs diff=lfs merge=lfs -text
+signage.zip filter=lfs diff=lfs merge=lfs -text
